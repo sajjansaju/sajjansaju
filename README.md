@@ -39,17 +39,18 @@ I am now excited to bring my **technical skills, creative mindset, and problem-s
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sajjansaju&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sajjansaju&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjansaju&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=sajjansaju&color=blue&style=flat-square)
 
 ---
 
-## 🏆 Achievements:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sajjansaju&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
-
----
 
 ### 🌟 Highlights:
-- 🔝 **Top Contributions**: ![](https://github-contributor-stats.vercel.app/api?username=sajjansaju&limit=5&theme=algolia&combine_all_yearly_contributions=true)  
-- 📈 **Profile Visits**: [![](https://visitcount.itsvg.in/api?id=sajjansaju&icon=0&color=6)](https://visitcount.itsvg.in)
+
+![](https://github-contributor-stats.vercel.app/api?username=sajjansaju&limit=5&theme=algolia&combine_all_yearly_contributions=true&timestamp=1)
+
+
+
+
 
 

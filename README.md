@@ -1,11 +1,19 @@
-👋 Hi there! I'm **Nava Kumar Sajjan**, a recent graduate with a **Master’s in Business Analytics from Macquarie University**, where I successfully completed my degree with a **Weighted Average Mark (WAM) of 76.438**. I am deeply passionate about **transforming raw data into meaningful insights** that drive impactful business decisions.  
+👋 Hey there! I’m **Nava Kumar Sajjan** – a curious mind with a **Master’s in Business Analytics from Macquarie University (WAM: 76.438)** and a strong belief that **data isn’t just numbers - it’s a story waiting to be told**.
 
-With expertise in **Python, R, SQL, Tableau, Power BI, SPSS, and Excel**, I have honed my skills in **analytics, data visualization, and storytelling**. My curiosity extends to exploring the realms of **artificial intelligence, machine learning**, and their applications in solving real-world problems.  
+💼 Currently shaping product insights as a **Product Data Analyst @ Dashboardworx**, where I turn data into decisions that drive real business impact. Previously, I completed a **global internship as a Business Strategy Intern @ Excelerate**, helping leadership teams uncover hidden opportunities in complex datasets.
 
-As part of my journey, I successfully completed a **4-week global internship as a Business Strategy Intern at Excelerate**, where I focused on **analyzing complex datasets** and **crafting actionable strategies** for decision-makers.  
+🔍 **My superpowers:**
+- Translating messy data into clean, actionable insights  
+- Building intuitive dashboards (Tableau | Power BI)  
+- Automating analysis with Python, R & SQL  
+- Bringing data stories to life with clarity and purpose  
 
-I am now excited to bring my **technical skills, creative mindset, and problem-solving abilities** to roles in **data analytics, visualization, and strategic decision-making**. Let’s create data-driven solutions together! 🚀
+✨ **Passionate about:**  
+AI + Machine Learning | Visual Storytelling | Ethical Data Use | Strategic Analytics
 
+📁 On this GitHub, you’ll find hands-on projects especially **SQL-driven analyses across different domains** showcasing my analytical mindset and real-world problem-solving skills.
+
+🚀 **Actively seeking opportunities** in **data analytics, data visualization, or strategic analytics roles** where I can continue turning data into meaningful outcomes. Let’s connect!
 
 ---
 

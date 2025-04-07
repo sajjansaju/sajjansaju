@@ -16,6 +16,14 @@ AI + Machine Learning | Visual Storytelling | Ethical Data Use | Strategic Analy
 
 🚀 **Actively seeking opportunities** in **data analytics, data visualization, or strategic analytics roles** where I can continue turning data into meaningful outcomes. Let’s connect!
 
+
+⚠️ All projects in this profile are licensed under CC BY-NC-ND 4.0.  
+They must **not** be copied, modified, used in portfolios, or redistributed **without proper credit**.  
+🚫 Unauthorized use may result in **legal consequences**.  
+📩 For access or permission, email me at: navakumarsajjan@gmail.com
+
+
+
 ---
 
 ## 🌐 Connect with Me:

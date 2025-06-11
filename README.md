@@ -1,7 +1,8 @@
 👋 Hey there! I’m **Nava Kumar Sajjan**  
 a curious mind with a **Master’s in Business Analytics from Macquarie University (WAM: 76.438)** and a strong belief that **data isn’t just numbers - it’s a story waiting to be told**.
 
-💼 Currently shaping product insights as a **Product Data Analyst @ Dashboardworx**, where I turn data into decisions that drive real business impact. Previously, I completed a **global internship as a Business Strategy Intern @ Excelerate**, helping leadership teams uncover hidden opportunities in complex datasets.
+💼 **Currently working as a Data Analyst @ Data Sparta**, where I help build layered data architectures, dimensional models, and reusable business metrics to turn data into strategic insights.
+Previously, I worked as a **Product Data Analyst @ DashboardWorx**, translating product data into actionable insights, and completed a **Global Business Strategy Internship @ Excelerate**, helping leadership teams uncover hidden opportunities in complex datasets.
 
 🔍 **My superpowers:**
 - Translating messy data into clean, actionable insights  

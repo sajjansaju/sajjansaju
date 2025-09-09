@@ -1,8 +1,11 @@
 👋 Hey there! I’m **Nava Kumar Sajjan**  
 a curious mind with a **Master’s in Business Analytics from Macquarie University (WAM: 76.438)** and a strong belief that **data isn’t just numbers - it’s a story waiting to be told**.
 
-💼 **Currently working as a Data Analyst @ Data Sparta**, where I help build layered data architectures, dimensional models, and reusable business metrics to turn data into strategic insights.
-Previously, I worked as a **Product Data Analyst @ DashboardWorx**, translating product data into actionable insights, and completed a **Global Business Strategy Internship @ Excelerate**, helping leadership teams uncover hidden opportunities in complex datasets.
+💼 Previously worked as:  
+- **Data Analyst Intern** @ Data Sparta – contributed to building layered data architectures, dimensional models, and reusable business metrics for strategic reporting 
+- **AI Engagement Analyst** (Global Internship) @ Excelerate – supported leadership teams in uncovering hidden opportunities through complex datasets
+- **Product Data Analyst Intern** @ DashboardWorx – translated product data into actionable insights
+ 
 
 🔍 **My superpowers:**
 - Translating messy data into clean, actionable insights  
@@ -10,18 +13,13 @@ Previously, I worked as a **Product Data Analyst @ DashboardWorx**, translating 
 - Automating analysis with Python, R & SQL  
 - Bringing data stories to life with clarity and purpose  
 
+🚀 **Actively seeking opportunities** in **data analytics, data visualization, or strategic analytics roles** where I can continue turning data into meaningful outcomes. Let’s connect!
+
+
 ✨ **Passionate about:**  
 AI + Machine Learning | Visual Storytelling | Ethical Data Use | Strategic Analytics
 
 📁 On this GitHub, you’ll find hands-on projects especially **SQL-driven analyses across different domains** showcasing my analytical mindset and real-world problem-solving skills.
-
-🚀 **Actively seeking opportunities** in **data analytics, data visualization, or strategic analytics roles** where I can continue turning data into meaningful outcomes. Let’s connect!
-
-
-⚠️ All projects in this profile are licensed under CC BY-NC-ND 4.0.  
-They must **not** be copied, modified, used in portfolios, or redistributed **without proper credit**.  
-🚫 Unauthorized use may result in **legal consequences**.  
-📩 For access or permission, email me at: navakumarsajjan@gmail.com
 
 
 
